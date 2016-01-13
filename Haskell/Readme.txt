@@ -1,1 +1,0 @@
-These are assignments from Programming Language Paradigms. They were meant to foster a basic understandign of Haskell and functional programming.
